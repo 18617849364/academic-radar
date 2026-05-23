@@ -1,0 +1,14 @@
+.env
+__pycache__/
+.pycache/
+*.pyc
+.DS_Store
+.venv/
+venv/
+data/source_cache/*.json
+output/logs/*.log
+output/digests/*.tmp
+output/digests/*.md
+output/digests/*.pdf
+output/digests/preview/
+output/site/

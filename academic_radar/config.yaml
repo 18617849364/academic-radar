@@ -1,0 +1,308 @@
+project:
+  name: "每日学术雷达"
+  timezone: "Asia/Shanghai"
+  language: "zh"
+  days_back: 30
+  fresh_days: 7
+  min_items: 8
+  max_items: 12
+  min_score: 3
+
+sources:
+  openalex:
+    enabled: true
+    days_back: 30
+    per_query: 20
+    queries:
+      - sociology
+      - social theory
+      - cultural sociology
+      - heritage studies
+      - tourism studies
+      - digital sociology
+      - platform studies
+      - AI and society
+      - Japan studies
+      - China-Japan comparison
+      - social movements
+      - identity
+      - digital inequality
+      - technology non-use
+      - generative AI education
+
+  arxiv:
+    enabled: true
+    days_back: 30
+    per_query: 15
+    queries:
+      - computational social science
+      - AI and society
+      - human-computer interaction
+      - social networks
+      - digital platforms
+      - generative AI and education
+      - online communities
+
+  crossref:
+    enabled: false
+    days_back: 30
+    per_query: 15
+    queries:
+      - sociology
+      - heritage tourism
+      - digital inequality
+      - generative AI education
+
+  rss:
+    enabled: true
+    timeout_seconds: 20
+    feeds:
+      - name: "日本社会学会"
+        category: "japanese_academic_society"
+        url: "https://jss-sociology.org/feed/"
+      - name: "J-STAGE Japanese Sociological Review"
+        category: "japanese_journal"
+        url: "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&rssLang=en&sryCd=jsr"
+      - name: "J-STAGE Tourism Studies Review"
+        category: "japanese_journal"
+        url: "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&rssLang=en&sryCd=tourismstudies"
+      - name: "J-STAGE The Tourism Studies"
+        category: "japanese_journal"
+        url: "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&rssLang=en&sryCd=jitr"
+      - name: "J-STAGE Journal of Global Tourism Research"
+        category: "japanese_journal"
+        url: "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&rssLang=en&sryCd=jgtr"
+      - name: "J-STAGE Japanese Journal for Science, Technology & Society"
+        category: "japanese_journal"
+        url: "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&rssLang=en&sryCd=jjsts"
+      - name: "科学网新闻 RSS"
+        category: "chinese_academic_news"
+        url: "http://www.sciencenet.cn/xml/news-0.aspx?news=0"
+      - name: "LSE Impact Blog"
+        category: "academic_blog"
+        url: "https://blogs.lse.ac.uk/impactofsocialsciences/feed/"
+      - name: "The Sociological Review"
+        category: "academic_blog"
+        url: "https://thesociologicalreview.org/feed/"
+      - name: "Discover Society"
+        category: "academic_blog"
+        url: "https://discoversociety.org/feed/"
+      - name: "American Sociological Review"
+        category: "journal"
+        url: "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=asra"
+      - name: "Cultural Sociology"
+        category: "journal"
+        url: "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=cusa"
+      - name: "Tourist Studies"
+        category: "journal"
+        url: "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=tosa"
+      - name: "Tourism Geographies"
+        category: "journal"
+        url: "https://www.tandfonline.com/feed/rss/rtxg20"
+      - name: "International Journal of Heritage Studies"
+        category: "journal"
+        url: "https://www.tandfonline.com/feed/rss/rjhs20"
+      - name: "UNESCO News"
+        category: "report"
+        url: "https://www.unesco.org/en/rss.xml"
+      - name: "ICOMOS News"
+        category: "report"
+        url: "https://www.icomos.org/en/?format=feed&type=rss"
+
+  web_pages:
+    enabled: true
+    timeout_seconds: 20
+    max_links_per_page: 30
+    pages:
+      - name: "中国社会科学网"
+        category: "chinese_academic_platform"
+        url: "https://www.cssn.cn/"
+
+translation:
+  enabled: true
+  provider: "openai"
+  model: "gpt-4o-mini"
+  max_items_per_run: 12
+  target_language: "zh-Hans"
+  fallback_when_no_api_key: "show_original"
+
+keyword_groups:
+  sociology_core:
+    weight: 2
+    terms:
+      - sociology
+      - social theory
+      - identity
+      - power
+      - social movement
+      - collective identity
+      - civil society
+      - social change
+      - inequality
+      - digital inequality
+      - platform society
+      - network society
+      - technology non-use
+      - AI and society
+
+  heritage_research:
+    weight: 4
+    terms:
+      - industrial heritage
+      - industrial heritage tourism
+      - heritage tourism
+      - heritage discourse
+      - heritage narrative
+      - authorized heritage discourse
+      - contested heritage
+      - difficult heritage
+      - dark tourism
+      - negative heritage
+      - memory politics
+      - ruins tourism
+      - tourist gaze
+      - tourist experience
+      - tourist narrative
+      - online reviews
+      - user-generated content
+      - platform representation
+      - destination image
+      - TripAdvisor
+      - Xiaohongshu
+      - Little Red Book
+      - social media tourism
+      - Hashima Island
+      - Gunkanjima
+      - Battleship Island
+      - Meiji Industrial Revolution heritage
+      - forced labor
+      - Korean laborers
+      - Japan industrial heritage
+
+  japan_china:
+    weight: 2
+    terms:
+      - Japanese society
+      - Japan studies
+      - China Japan comparison
+      - China-Japan comparison
+      - East Asian sociology
+      - university students Japan
+      - Japanese higher education
+      - youth Japan
+      - AI use Japan students
+      - Japan
+      - China
+      - East Asia
+
+  generative_ai_society:
+    weight: 3
+    terms:
+      - generative AI
+      - ChatGPT
+      - AI education
+      - AI use in higher education
+      - AI non-use
+      - AI discontinuance
+      - paid AI use
+      - AI consultation
+      - human-AI relationship
+      - digital intimacy
+      - social support
+      - help-seeking
+
+  japanese_terms:
+    weight: 3
+    terms:
+      - 社会学
+      - 文化遺産
+      - 産業遺産
+      - 産業遺産観光
+      - 遺産観光
+      - 遺産言説
+      - 観光経験
+      - 観光客の語り
+      - 観光のまなざし
+      - 口コミ
+      - トリップアドバイザー
+      - 小紅書
+      - 軍艦島
+      - 端島
+      - 明治日本の産業革命遺産
+      - 負の遺産
+      - ダークツーリズム
+      - 記憶の政治
+      - 生成AI
+      - 大学生
+      - 技術非利用
+      - デジタル不平等
+      - 相談相手
+      - 社会的サポート
+      - 人間AI関係
+
+  chinese_terms:
+    weight: 3
+    terms:
+      - 社会学
+      - 工业遗产
+      - 工业遗产旅游
+      - 文化遗产
+      - 遗产叙事
+      - 游客经验
+      - 平台表征
+      - 旅游评论
+      - 社交媒体旅游
+      - 军舰岛
+      - 端岛
+      - 黑暗旅游
+      - 困难遗产
+      - 记忆政治
+      - 生成AI
+      - 大学生
+      - 技术非使用
+      - 数字不平等
+      - 人机关系
+      - 社会支持
+      - 中日比较
+
+ranking:
+  theory_method_terms:
+    - theory
+    - theorization
+    - conceptual
+    - methodology
+    - methods
+    - ethnography
+    - interview
+    - survey
+    - discourse analysis
+    - narrative analysis
+    - comparative
+    - longitudinal
+    - mixed methods
+    - framework
+    - 理论
+    - 方法
+    - 言説分析
+    - 比較
+  technical_penalty_terms:
+    - neural network
+    - benchmark
+    - compiler
+    - sensor
+    - robotics
+    - protein
+    - genome
+    - tumor
+    - clinical
+    - wireless
+    - semiconductor
+    - finite element
+  commercial_penalty_terms:
+    - stock
+    - market share
+    - earnings
+    - product launch
+    - discount
+    - sale
+    - advertisement

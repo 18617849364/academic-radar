@@ -1,0 +1,604 @@
+{
+  "items": {
+    "doi:10.5281/zenodo.20312747": {
+      "title": "THE SIMULACRUM THAT REMEMBERS.",
+      "doi": "10.5281/zenodo.20312747",
+      "openalex_id": "https://openalex.org/W7161832235",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20312747",
+      "source_name": "OpenAlex",
+      "relevance_score": 9,
+      "last_included": "2026-05-22"
+    },
+    "doi:10.5281/zenodo.20306586": {
+      "title": "OPTIMIZATION ON SUSTAINABLE MANAGEMENT MECHANISMS FOR WORLD CULTURAL HERITAGE TOURISM DESTINATION SAMARKAND",
+      "doi": "10.5281/zenodo.20306586",
+      "openalex_id": "https://openalex.org/W7161818073",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20306586",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-22"
+    },
+    "arxiv:2605.20646v1": {
+      "title": "DisImpact: Quantifying the Physi-Social Impact of Natural Disasters Through Social Media",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2605.20646v1",
+      "url": "http://arxiv.org/abs/2605.20646v1",
+      "source_name": "arXiv",
+      "relevance_score": 8,
+      "last_included": "2026-05-22"
+    },
+    "arxiv:2605.20442v1": {
+      "title": "Modeling Emotional Dynamics in Agent-to-Agent Interactions on Moltbook",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2605.20442v1",
+      "url": "http://arxiv.org/abs/2605.20442v1",
+      "source_name": "arXiv",
+      "relevance_score": 7,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7161512893": {
+      "title": "Assessing Translation Quality Based on Anthropocentric Criteria",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161512893",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/710188/assessing-translation-quality-based-on-anthropocentric-criteria",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7160474140": {
+      "title": "SUSTAINABILITY AND CONSUMER BEHAVIOUR IN THE FAST FASHION INDUSTRY: A SYSTEMATIC REVIEW AND EMPIRICAL INSIGHTS FROM INDIA AND ITALY",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7160474140",
+      "arxiv_id": "",
+      "url": "https://hdl.handle.net/11567/1300018",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7161672957": {
+      "title": "Religious AND Educational Reforms in Uzbekistan During the Years OF Independence",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161672957",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/710643/religious-and-educational-reforms-in-uzbekistan-during-the-years-of-independence",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7128657466": {
+      "title": "Beyond Cultural Appropriation : Kneecap’s Rap as Gaeilge as the Embracing of the Political Dimension and Therapeutical Properties of US Hip Hop to Assert Identity, Resist, and Bridge Communities in Post-Conflict Northern Ireland",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7128657466",
+      "arxiv_id": "",
+      "url": "https://hal.science/hal-05501365",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7160740288": {
+      "title": "I Miss My Computer: Online Artistry, Web Aesthetics, and Coming-of-Age in a Digital Landscape",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7160740288",
+      "arxiv_id": "",
+      "url": "https://digitalcommons.risd.edu/masterstheses/1532",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "doi:10.1093/oso/9780197818473.003.0005": {
+      "title": "Paddington, Agency, and Authority",
+      "doi": "10.1093/oso/9780197818473.003.0005",
+      "openalex_id": "https://openalex.org/W7161824464",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1093/oso/9780197818473.003.0005",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "openalex:https://openalex.org/W7139803500": {
+      "title": "Digital Nativeness and translanguaging in Vojvodina: Multilingualism, English language media, and Vojvodina Hungarian linguistic practices",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7139803500",
+      "arxiv_id": "",
+      "url": "https://openalex.org/W7139803500",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "doi:10.62383/risoma.v4i3.1665": {
+      "title": "Flexing di Media Sosial: Antara Gaya Hidup dan Tekanan Sosial pada Mahasiswa Sosiologi Universitas Sriwijaya",
+      "doi": "10.62383/risoma.v4i3.1665",
+      "openalex_id": "https://openalex.org/W7161795388",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.62383/risoma.v4i3.1665",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-22"
+    },
+    "doi:10.5281/zenodo.20327031": {
+      "title": "The End of Knowledge Monopoly: Reconstructing the Ontology of Universities in the Age of AI through Universal Phase Crystallization Theory",
+      "doi": "10.5281/zenodo.20327031",
+      "openalex_id": "https://openalex.org/W7161952238",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20327031",
+      "source_name": "OpenAlex",
+      "relevance_score": 10,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1108/jtf-06-2026-350": {
+      "title": "Editorial: Reconfiguring tourism futures – culture, technology, health and governance in a post-pandemic world",
+      "doi": "10.1108/jtf-06-2026-350",
+      "openalex_id": "https://openalex.org/W7161967197",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1108/jtf-06-2026-350",
+      "source_name": "OpenAlex",
+      "relevance_score": 9,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20326699": {
+      "title": "CREATIVE DESTRUCTION IN THE AGE OF CHATGPT: RETHINKING SCHUMPETER IN THE AI ERA",
+      "doi": "10.5281/zenodo.20326699",
+      "openalex_id": "https://openalex.org/W7162030704",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20326699",
+      "source_name": "OpenAlex",
+      "relevance_score": 9,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1542/hpeds.2025-009153": {
+      "title": "A Comparative Evaluation of Large Language Models on Pediatric Board-Style Examinations",
+      "doi": "10.1542/hpeds.2025-009153",
+      "openalex_id": "https://openalex.org/W7162007020",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1542/hpeds.2025-009153",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.69849/a4syn865": {
+      "title": "A inteligência artificial como ferramenta de manipulação e fraude: impactos sociais e desafios regulatórios na era digital",
+      "doi": "10.69849/a4syn865",
+      "openalex_id": "https://openalex.org/W7162008401",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.69849/a4syn865",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20327941": {
+      "title": "VIRTUAL VOICES, REAL JOURNEYS: EXAMINING INFLUENCER POWER ON EUROPEAN DESTINATION CHOICES IN THE UAE",
+      "doi": "10.5281/zenodo.20327941",
+      "openalex_id": "https://openalex.org/W7161968793",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20327941",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.61132/ijmeal.v3i2.476": {
+      "title": "Culture Shock Experienced by the Main Character in the Picture Book The Way We Do It in Japan",
+      "doi": "10.61132/ijmeal.v3i2.476",
+      "openalex_id": "https://openalex.org/W7161984036",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.61132/ijmeal.v3i2.476",
+      "source_name": "OpenAlex",
+      "relevance_score": 7,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1108/jtf-06-2026-351": {
+      "title": "Book review: Tourism, Global Crises and Justice: Tourism Transition to a More Just and Sustainable Future",
+      "doi": "10.1108/jtf-06-2026-351",
+      "openalex_id": "https://openalex.org/W7162009987",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1108/jtf-06-2026-351",
+      "source_name": "OpenAlex",
+      "relevance_score": 7,
+      "last_included": "2026-05-23"
+    },
+    "url:https://www.tandfonline.com/doi/full/10.1080/13527258.2026.2673360?af=R": {
+      "title": "Beyond a narrative of shackles: the negotiation of slavery’s difficult heritage in national and Afro-diasporic Brazilian museums",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13527258.2026.2673360?af=R",
+      "source_name": "International Journal of Heritage Studies",
+      "relevance_score": 7,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161656523": {
+      "title": "Analysis OF the Concepts OF Assessments AND Norms in the Views OF European Thinkers: Jeremy Bentham AND John Stuart Mill",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161656523",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/713965/analysis-of-the-concepts-of-assessments-and-norms-in-the-views-of-european-think",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161520861": {
+      "title": "The Role OF Women in Society in the Interpretation OF Charlotte Bronte (Jane Eyre)",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161520861",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/710161/the-role-of-women-in-society-in-the-interpretation-of-charlotte-bronte-jane-eyre",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161516508": {
+      "title": "Rethinking the English Effect",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161516508",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/718538/rethinking-the-english-effect",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.62383/risoma.v4i3.1676": {
+      "title": "Reproduksi Ketimpangan Sosial dalam Pendidikan Berdasarkan Teori Pierre Bourdieu dalam Perspektif Sosiologi Kritis",
+      "doi": "10.62383/risoma.v4i3.1676",
+      "openalex_id": "https://openalex.org/W7162031668",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.62383/risoma.v4i3.1676",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20335177": {
+      "title": "PEDAGOGICAL FACTORS OF FORMING NATIONAL PRIDE IN THE CONSCIOUSNESS OF YOUTH",
+      "doi": "10.5281/zenodo.20335177",
+      "openalex_id": "https://openalex.org/W7161988850",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20335177",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20329664": {
+      "title": "The Legacy of Wenceslao 'Bintao' Q. Vinzons: A Historical Analysis of His Contributions to Philippine History",
+      "doi": "10.5281/zenodo.20329664",
+      "openalex_id": "https://openalex.org/W7161999773",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20329664",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.61132/ijmeal.v3i2.477": {
+      "title": "Unhei’s Adaptation as an Asian American Immigrant Child in The Name Jar by Yangsook Choi",
+      "doi": "10.61132/ijmeal.v3i2.477",
+      "openalex_id": "https://openalex.org/W7161970512",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.61132/ijmeal.v3i2.477",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20335025": {
+      "title": "THE SCROLL OF DEVELOPMENTAL NON DUALITY - A Canonical Document of the Quantum Education Evolutionary University",
+      "doi": "10.5281/zenodo.20335025",
+      "openalex_id": "https://openalex.org/W7161957528",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20335025",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.18462/iir.iccc.2026.8300": {
+      "title": "From consumption to capacity: demand-oriented forecasting of cold storage needs for a net-zero UK food chain.",
+      "doi": "10.18462/iir.iccc.2026.8300",
+      "openalex_id": "https://openalex.org/W7161130729",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.18462/iir.iccc.2026.8300",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.51895/vss/11/badraoui/charef/pescaru": {
+      "title": "“Religion and Secular”: The Decolonial Project Of Mitsutoshi Horii: Presentation, Debate And Comments",
+      "doi": "10.51895/vss/11/badraoui/charef/pescaru",
+      "openalex_id": "https://openalex.org/W7161979137",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.51895/vss/11/badraoui/charef/pescaru",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.24090/jihm.v5i1.15126": {
+      "title": "Cultural Heritage of Bandar Senapelan (1600–1900): Islamic Trade and Migration Shaping Local Identity",
+      "doi": "10.24090/jihm.v5i1.15126",
+      "openalex_id": "https://openalex.org/W7161940013",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.24090/jihm.v5i1.15126",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.62754/joe.v4i4.7194": {
+      "title": "Climate Anxiety and Human Survival in Contemporary English Literature",
+      "doi": "10.62754/joe.v4i4.7194",
+      "openalex_id": "https://openalex.org/W7162006143",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.62754/joe.v4i4.7194",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.17576/geo-2026-2202-24": {
+      "title": "Faktor pengetahuan, sikap dan impresi terhadap penyertaan masyarakat Melayu dan Bumiputera dalam perayaan Cina",
+      "doi": "10.17576/geo-2026-2202-24",
+      "openalex_id": "https://openalex.org/W7162031985",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.17576/geo-2026-2202-24",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.26686/wemf-qr2g": {
+      "title": "Nurturing Communities of Wellbeing: Embracing the Complexity of Educator Flourishing across Aotearoa New Zealand",
+      "doi": "10.26686/wemf-qr2g",
+      "openalex_id": "https://openalex.org/W7161983378",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.26686/wemf-qr2g",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20329930": {
+      "title": "The Tulay Na Bato Chapel: Its History and Significance",
+      "doi": "10.5281/zenodo.20329930",
+      "openalex_id": "https://openalex.org/W7162015359",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20329930",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1177/01634437261452160": {
+      "title": "AI-generated podcasts: Synthetic intimacy and cultural mistranslation in audio overviews from Google’s NotebookLM",
+      "doi": "10.1177/01634437261452160",
+      "openalex_id": "https://openalex.org/W7161954503",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1177/01634437261452160",
+      "source_name": "OpenAlex",
+      "relevance_score": 9,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.31234/osf.io/sak29_v1": {
+      "title": "The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education",
+      "doi": "10.31234/osf.io/sak29_v1",
+      "openalex_id": "https://openalex.org/W7161940884",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.31234/osf.io/sak29_v1",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.64898/2026.05.14.26351842": {
+      "title": "Generative Artificial Intelligence in Medical Education and Participatory Research for Social Action: A Human and AI Comparative Analysis",
+      "doi": "10.64898/2026.05.14.26351842",
+      "openalex_id": "https://openalex.org/W7162015112",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.64898/2026.05.14.26351842",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1016/j.actpsy.2026.107069": {
+      "title": "The role of AI-mediated metacognitive interventions in EFL writing development: A cross-sectional study of textual accuracy, lexical sophistication, and cohesion",
+      "doi": "10.1016/j.actpsy.2026.107069",
+      "openalex_id": "https://openalex.org/W7161811425",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1016/j.actpsy.2026.107069",
+      "source_name": "OpenAlex",
+      "relevance_score": 8,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1080/01944363.2026.2668445": {
+      "title": "Career Mobility of Planning Alumni in the United States: Evidence from Professional Profile Data Using Large Language Models",
+      "doi": "10.1080/01944363.2026.2668445",
+      "openalex_id": "https://openalex.org/W7161236027",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1080/01944363.2026.2668445",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20325919": {
+      "title": "Methods of labor management",
+      "doi": "10.5281/zenodo.20325919",
+      "openalex_id": "https://openalex.org/W7162021508",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20325919",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20323405": {
+      "title": "Paper 4 — Role Society: Human Discretion, Accountability, and Non-Identifiable Role Coordination in the AGI Era",
+      "doi": "10.5281/zenodo.20323405",
+      "openalex_id": "https://openalex.org/W7161940111",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20323405",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.4324/9781003568438": {
+      "title": "Psychoanalytic and Neuroscientific Framing",
+      "doi": "10.4324/9781003568438",
+      "openalex_id": "https://openalex.org/W7161972709",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.4324/9781003568438",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.20329141": {
+      "title": "Intersecting Margins: Gender, Caste, and Minority Identity in the Works of Indian Women Writers",
+      "doi": "10.5281/zenodo.20329141",
+      "openalex_id": "https://openalex.org/W7161940642",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.20329141",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.17615/rzsw-t986": {
+      "title": "WHOSE BODY, WHAT SCORE? ANALYZING EMBODIED GEOGRAPHIES OF TRAUMA, POLITICIZED HEALING, AND HEALTH JUSTICE IN THE US",
+      "doi": "10.17615/rzsw-t986",
+      "openalex_id": "https://openalex.org/W7161972527",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.17615/rzsw-t986",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.1093/oso/9780197818473.003.0003": {
+      "title": "Paddington Goes Global",
+      "doi": "10.1093/oso/9780197818473.003.0003",
+      "openalex_id": "https://openalex.org/W7161801791",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.1093/oso/9780197818473.003.0003",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.5281/zenodo.18951093": {
+      "title": "Finite Integrationism: The Structure of Subject, Governance, and Acceptance",
+      "doi": "10.5281/zenodo.18951093",
+      "openalex_id": "https://openalex.org/W7134894662",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.5281/zenodo.18951093",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "doi:10.47759/faytws85": {
+      "title": "Exploring Rural-based Secondary School Teachers’ Professional Development Needs in Teaching English Pronunciation in Vhembe District, South Africa",
+      "doi": "10.47759/faytws85",
+      "openalex_id": "https://openalex.org/W7161811022",
+      "arxiv_id": "",
+      "url": "https://doi.org/10.47759/faytws85",
+      "source_name": "OpenAlex",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "arxiv:2605.22447v1": {
+      "title": "Cohesion-6K: An Arabic Dataset for Analyzing Social Cohesion and Conflict in Online Discourse",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2605.22447v1",
+      "url": "http://arxiv.org/abs/2605.22447v1",
+      "source_name": "arXiv",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "arxiv:2605.22636v1": {
+      "title": "A Multi-Source Framework for Relational Validation of Large Language Models Using Expert-Curated Encyclopedic Sources",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2605.22636v1",
+      "url": "http://arxiv.org/abs/2605.22636v1",
+      "source_name": "arXiv",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "url:https://www.tandfonline.com/doi/full/10.1080/13527258.2026.2673356?af=R": {
+      "title": "Distinguishing the ‘A’ in authorised heritage discourse: cultural authority versus political authority",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13527258.2026.2673356?af=R",
+      "source_name": "International Journal of Heritage Studies",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "arxiv:2605.00522v1": {
+      "title": "The impact of coercive, normative, and mimetic Stress on Chinese teachers' continuance intention to use generative AI: An integrated perspective of the Expectation-Confirmation Model and Institutional Theory",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2605.00522v1",
+      "url": "http://arxiv.org/abs/2605.00522v1",
+      "source_name": "arXiv",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "arxiv:2604.27245v2": {
+      "title": "Addressing the Reality Gap: A Three-Tension Framework for Agentic AI Adoption",
+      "doi": "",
+      "openalex_id": "",
+      "arxiv_id": "2604.27245v2",
+      "url": "http://arxiv.org/abs/2604.27245v2",
+      "source_name": "arXiv",
+      "relevance_score": 6,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161528250": {
+      "title": "Typology OF MEDIA Contents Suitable for Children's Audience in Social Networks",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161528250",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/718294/typology-of-media-contents-suitable-for-children-s-audience-in-social-networks",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161516808": {
+      "title": "Corpus as the Research Object in Linguistic Domains",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161516808",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/713760/corpus-as-the-research-object-in-linguistic-domains",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161920000": {
+      "title": "The Language AND Types OF Mass MEDIA",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161920000",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/718195/the-language-and-types-of-mass-media",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161516472": {
+      "title": "The Role OF Spirituality AND Values in Society",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161516472",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/718300/the-role-of-spirituality-and-values-in-society",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161513530": {
+      "title": "The Youth's Education as an Essential Factor OF Increasing the Effectiveness OF Education",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161513530",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/718436/the-youth-s-education-as-an-essential-factor-of-increasing-the-effectiveness-of",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    },
+    "openalex:https://openalex.org/W7161522086": {
+      "title": "The Significance OF Using the Works OF Eastern Scientists in the Spiritual AND Moral Education OF Students",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W7161522086",
+      "arxiv_id": "",
+      "url": "https://www.neliti.com/publications/714168/the-significance-of-using-the-works-of-eastern-scientists-in-the-spiritual-and-m",
+      "source_name": "OpenAlex",
+      "relevance_score": 5,
+      "last_included": "2026-05-23"
+    }
+  }
+}
